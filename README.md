@@ -26,7 +26,7 @@ I'm a **Senior Technical Recruiter** with **4+ years of hands-on experience** in
 - 🌍 Recruiting across: **Banking | Retail | Technology | Infrastructure domains**
 - 💡 Exploring: **Web Development | JavaScript | React | Python**
 - 🎵 Building: A **Music Application** as my flagship dev project
-- 📬 Reach me: [chandraguptshivam@gmail.com](mailto:chandraguptshivam@gmail.com)
+- 📬 Reach me: [shivamchandragupt@gmail.com](mailto:shivamchandragupt@gmail.com)
 
 ---
 
@@ -78,7 +78,7 @@ I'm a **Senior Technical Recruiter** with **4+ years of hands-on experience** in
 
 ## 💻 Technical Skills
 
-### Languages & Frameworks
+### Languages & Frameworks (Basic Knowledge)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -95,7 +95,7 @@ I'm a **Senior Technical Recruiter** with **4+ years of hands-on experience** in
 
 ## 🚀 Featured Projects
 
-### 🎵 [Music Application](https://github.com/chandragupt-shivam/music-app)
+### 🎵 [Music Application](https://codesandbox.io/p/sandbox/9kr6ss)
 > A fully functional music player built with modern web technologies.
 
 **Tech Stack:** `HTML` `CSS` `JavaScript` `Web Audio API`
@@ -107,8 +107,8 @@ I'm a **Senior Technical Recruiter** with **4+ years of hands-on experience** in
 
 ---
 
-### 🌐 [Personal Portfolio Website](https://github.com/chandragupt-shivam/portfolio)
-> A professional portfolio showcasing my journey as both a recruiter and a developer.
+### 🌐 [Personal Portfolio Website](https://chandragupt-shivam-portfolio02.netlify.app)
+> A professional portfolio showcasing my journey as a recruiter.
 
 **Tech Stack:** `HTML` `CSS` `JavaScript` `Responsive Design`
 
