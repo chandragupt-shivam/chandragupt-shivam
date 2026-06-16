@@ -161,7 +161,7 @@ I'm always open to connecting with **tech professionals, hiring managers, develo
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandragupt-shivam-993880157/)
 [![Email](https://img.shields.io/badge/Send_Me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chandraguptshivam@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-url.com)
+[![Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://chandragupt-shivam-portfolio02.netlify.app)
 
 </div>
 
