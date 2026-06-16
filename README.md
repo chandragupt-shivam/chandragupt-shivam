@@ -5,7 +5,7 @@
 ### 🎯 Senior Technical Recruiter | 💻 Aspiring Software Developer | 🌐 US IT Staffing Expert
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandragupt-shivam-993880157/)
-[![Portfolio]([https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-url(https://chandragupt-shivam-portfolio02.netlify.app/))
+[![Portfolio]([https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://chandragupt-shivam-portfolio02.netlify.app/))
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chandraguptshivam@gmail.com)
 [![Location](https://img.shields.io/badge/📍_Noida,_India-4CAF50?style=for-the-badge)](https://maps.google.com/?q=Noida,India)
 
